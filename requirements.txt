@@ -1,5 +1,6 @@
 jupyter
 wheel
+pytest
 devito[extras,tests]
 ipyparallel<8.9
 mpi4py<3.1.7
